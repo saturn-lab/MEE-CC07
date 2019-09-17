@@ -11,9 +11,9 @@ Bring Your Laptop to Class.
 |   4       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ&TAs    |   推荐用官网安装python     |
 |   5       | Python 计算Pi     |  讲课    |     TA     |         |
 |   6       | Python练习1  ``cal_pi.py``    |  实践    |     CZ&TAs     |         
-|   7       | Github注册/安装GitBash/Markdown编辑器     |  实践    |    TAs     |        |
-|   8       | Git Clone本项目     |  实践    |    Xu     |        |
-|   9       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``名单.md``     |  实践    |    CZ&TAs     |        |
+|   7       | Github注册/安装GitBash/Markdown编辑器     |  实践    |   zys    |        |
+|   8       | Git Clone本项目     |  实践    |    zys     |        |
+|   9       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``名单.md``     |  实践    |    CZ     |        |
 
 
 # 准备的软件资源
