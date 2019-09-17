@@ -1,5 +1,7 @@
 Bring Your Laptop to Class. 
 
+# 第一次课教学计划Schedule 
+
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   0       | 课程签到     |  logistics   |     TA     |        |
