@@ -12,3 +12,12 @@ Bring Your Laptop to Class.
 |   7       | Github注册/安装GitBash/Markdown编辑器     |  实践    |    TAs     |        |
 |   8       | Git Clone本项目     |  实践    |    Xu     |        |
 |   9       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``名单.md``     |  实践    |    CZ&TAs     |        |
+
+
+# 准备的软件资源
+
+下载：python软件，https://www.python.org/downloads/
+
+下载：markdown编辑器软件，https://www.typora.io/
+
+下载：课程的git-gui客户端软件：https://git-scm.com/download/ 
