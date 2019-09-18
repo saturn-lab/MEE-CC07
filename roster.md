@@ -20,3 +20,5 @@
 |0669  |[沈](markdown/0669沈.md)    |   |
 |3134  |[吴](markdown/3134简介.md)    |   |
 |2175  |[曹](markdown/2175.md)    |   |
+|0860  |[雷](markdown/0860.md)|   |
+|0090  |[林](markdown/0090.md)    |   |
