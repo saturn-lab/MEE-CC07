@@ -2,7 +2,7 @@
 
 # MEE-CC07总览
 
-![png](MEE-CC07.png)
+![png](MEE-CC07-all.png)
 
 
 ## Teaching Plan
