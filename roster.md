@@ -58,3 +58,4 @@
 |0316  |[孙](markdown/0316.md)    |   |
 |0038  |[刘](markdown/0038.md)    |   |
 |0239  |[高](markdown/0239.md)    |   |
+|0882  |[邱](markdown/邱子煜.md)  |    |
