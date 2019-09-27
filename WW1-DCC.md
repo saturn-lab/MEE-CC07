@@ -14,6 +14,7 @@ Bring Your Laptop to Class.
 |   7       | Github注册/安装GitBash/Markdown编辑器     |  实践    |   zys    |        |
 |   8       | Git Clone本项目     |  实践    |    zys     |        |
 |   9       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``名单.md``     |  实践    |    CZ     |        |
+|   10      | 建立 \*.github.io的个人主页    |  实践    |    CZ     |        |
 
 
 # 准备的软件资源
