@@ -10,7 +10,7 @@ Bring Your Laptop to Class.
 |   2       | 实验环境，编辑器，Git简介，AI-platform     |  讲课    |     CZ     |  VS code/Sublime/Notepad++       |
 |   3       | Github注册/安装GitBash/Markdown编辑器     |  实践    |   ZYS    |        |
 |   4       |  个人自我介绍markdown ``ID-Four-digit.md`` /更新 ``roster.md``     |  实践    |    CZ\ZYS     |        |  
-|   5       | 建立 \*.github.io的个人主页    |  实践    |    CZ/MAXD     |        |       |
+|   5       | 建立git仓库， 建立 \*.github.io的个人主页    |  实践    |    CZ/MAXD     |        |       |
 |           |         |  |  |  |
 |   6       | Python编程语言     |  讲课    |    CZ    |    |
 |   7       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ    |   推荐用官网安装python     |
