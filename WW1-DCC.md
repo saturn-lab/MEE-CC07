@@ -5,16 +5,21 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   0       | 课程签到     |  logistics   |     TA     |        |
-|   1       | 课程单元简介，教师团队介绍     | 讲课    |     CZ     |   all     |
+|   1       | 课程单元简介，教师团队介绍，课堂团建     | 讲课    |     CZ\MXD\ZYS     |   all     |
+|           |         |  |  |  |
 |   2       | 实验环境，编辑器，Git简介，AI-platform     |  讲课    |     CZ     |  VS code/Sublime/Notepad++       |
-|   3       | Python编程语言     |  讲课    |    CZ    |        |
-|   4       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ&TAs    |   推荐用官网安装python     |
-|   5       | Python 计算Pi     |  讲课    |     TA     |         |
-|   6       | Python练习1  ``cal_pi.py``    |  实践    |     CZ&TAs     |         
-|   7       | Github注册/安装GitBash/Markdown编辑器     |  实践    |   zys    |        |
-|   8       | Git Clone本项目     |  实践    |    zys     |        |
-|   9       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``名单.md``     |  实践    |    CZ     |        |
-|   10      | 建立 \*.github.io的个人主页    |  实践    |    CZ     |        |
+|   3       | Github注册/安装GitBash/Markdown编辑器     |  实践    |   ZYS    |        |
+|   4       |  个人自我介绍markdown ``ID-Four-digit.md`` /更新 ``roster.md``     |  实践    |    CZ\ZYS     |        |  
+|   5       | 建立 \*.github.io的个人主页    |  实践    |    CZ/MAXD     |        |       |
+|           |         |  |  |  |
+|   6       | Python编程语言     |  讲课    |    CZ    |    |
+|   7       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ    |   推荐用官网安装python     |
+|   8       | Python 计算Pi  ``cal_pi.py``    |  实践    |     CZ     |     |
+|           |         |  |  |  |
+|   9       | Git 深入   |  |  |  |
+|   10      | Git Clone本项目     |  实践    |    ZYS     |        |
+
+
 
 
 # 准备的软件资源
