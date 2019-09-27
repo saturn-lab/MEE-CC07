@@ -4,5 +4,5 @@
 
 # 教师
 
-陈震、周晋、马晓东、章屹松、刘娟蕾、郭敏、王浩宇、邸亮
+[陈震](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、周晋、马晓东、章屹松、刘娟蕾、郭敏、王浩宇、邸亮
 
