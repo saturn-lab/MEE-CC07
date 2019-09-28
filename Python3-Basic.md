@@ -13,8 +13,9 @@
 - [x] 文件读入和输出操作，[file_io](learnPython3/file_io.ipynb)
 - [x] 项目的组织与应用，[Project](learnPython3/modules_and_packages.ipynb)
 
-# Caculate Pi 
-[Pi_cal](learnPython3/calculate_pi.ipynb)
+# Python3语言基础-3
+``Caculate Pi 
+- [x] [Pi_cal](learnPython3/calculate_pi.ipynb)
 
 
 详见： [learnPython3](learnPython3)
