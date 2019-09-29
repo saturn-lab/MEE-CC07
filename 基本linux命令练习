@@ -1,0 +1,61 @@
+Linux命令练习
+基本命令 格式 ： 命令 参数 //说明
+文件命令
+pwd               //查看当前目录   
+ls                 //显示当前路径  
+ls /                 //查看根目录，可以看到根目录构成
+ls /home           //查看home目录
+ls ~               //查看个人主目录
+ls -al             //查看目录详情
+cd /home           //进入home目录
+ls                 //查看当前目录
+mkdir test         //在当前目录创建test目录
+cd test           //进入test目录
+pwd               //查看当前目录，比较与开始的不同显示结果
+cd ..            //返回到上一级目录
+pwd           //确认当前目录
+ls         //查看当前目录
+ls  test    //查看当前目录下test目录
+rm –r test    //删除刚建的目录test  （rm –rf test 是删除test目录及子目录）
+scp  vr@101.6.160.33:/www/vr/tiyan/examples/0mini.html  example.html //拷贝实例文件
+cp  example.html    base.html     //同目录拷贝文件
+mv example.html  aa11.html      //移动文件，或改名
+touch  myfile                  //创建文件myfile
+ls                           //查看目录确认有myfile
+cat  myfile                   //显示myfile内容
+cat   base.html               //显示base.html内容
+head  base.html   
+tail  base.html
+clear   /清屏，清除终端中显示内容
+网络命令
+ip a               //显示IP地址
+ping 192.168.x.x   //ping 工具使用，停止ping用Ctrl+C组合键
+Ping  info.tsinghua.edu.cn
+管理命令
+
+sudo reboot         //重启电脑，需要管理权限
+系统信息命令
+date                //日期和时间
+cal                 //月历
+uptime             //开机运行时间
+who                //查看当前用户信息
+uname             //显示内核信息
+lscpu              //查看CPU信息
+free               //查看内存  （free –h 试试）
+man date          //man显示后面命令的说明man相当与查看命令手册
+df              //显示磁盘占用情况
+du              //显示目录空间占用情况
+free           //显示内存使用情况包括交换区
+vim编辑器的使用：
+3种模式的切换，必会命令：i进入编辑模式；Esc进入命令模式；：进入末行命令模式
+命令行命令举例
+vim   myfile             //编辑myfile
+:q /退出
+:wq /保存并退出
+
+:q! /不保存并退出
+
+:w /保存
+
+:w! /强行保存
+vimtutor 练习，学习键盘操作。
