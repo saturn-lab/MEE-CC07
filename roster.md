@@ -59,5 +59,7 @@
 |0038  |[刘](markdown/0038.md)    |   |
 |0239  |[高](markdown/0239.md)    |   |
 |0882  |[邱](markdown/邱子煜.md)  |    |
+|1939  |[李](markdown/1939.md)    |   |
 |1209  |[沈](markdown/1209.md)    |   |
 |0093  |[张](markdown/0093.md)    |   |
+
