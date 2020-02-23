@@ -1,0 +1,65 @@
+
+# 名单
+
+|  ID    |  名字    |  主页    | 备注     |
+| ---- | ---- | ---- | ---- |
+| 0247 |  张  |      |      |
+| 0968 |  li |      |      |
+| 0642 |  胡  |      |      |
+| 2413 |   [lin](markdown/2019-Autumn/2413) |   |      |
+|      |      |      |      |
+| 0117 | 扬   |      |      |
+| 1777 | 崔   |      |      |
+|  |      |      |      |
+| 0471 |  刘  |      |      |
+| 1565 |  宁  |      |      |
+| 0128 |  贾  |      |
+|2458  |  郑  |      |      |
+|1985  |  高  |   |
+|1498  |[夏](markdown/2019-Autumn/1498.md)|   |   |
+|0736  |[左](markdown/2019-Autumn/0736-Aurora-Brief.md)    |
+|1408  |[彭](markdown/2019-Autumn/1408-心林.md)     |      |
+|0669  |[沈](markdown/2019-Autumn/0669沈.md)    |   |
+|3134  |[吴](markdown/2019-Autumn/3134简介.md)    |   |
+|0247  |[张](markdown/2019-Autumn/0247.md)    |   |
+|1498  |[夏](markdown/2019-Autumn/1498.md)|   |   |
+|0736  |[左](markdown/2019-Autumn/0736-Aurora-Brief.md)    |
+|1408  |[彭](markdown/2019-Autumn/1408-心林.md)     |      |
+|0669  |[沈](markdown/2019-Autumn/0669沈.md)    |   |
+|3134  |[吴](markdown/2019-Autumn/3134简介.md)    |   |
+|3009  |陆 |      |
+|2175  |[曹](markdown/2019-Autumn/2175.md)    |   |
+|0860  |[雷](markdown/2019-Autumn/0860.md)|   |
+|0090  |[林](markdown/2019-Autumn/0090.md)    |   |
+|2179  |[王](markdown/2019-Autumn/2179-王.md)    |   |
+|1694  |[吴](markdown/2019-Autumn/1694.md)   | |
+|1158  |[范](markdown/2019-Autumn/1158.md)    |   |
+|0076  |[尤](markdown/2019-Autumn/0076.md)    |   |
+|0030  |[林](markdown/2019-Autumn/0030.md)    |   |
+|1577  |[温](markdown/2019-Autumn/1577.md)    |   |
+|0086  |[Aman](markdown/2019-Autumn/自我介绍.md)  |   |
+|0529  |[刘璐](markdown/2019-Autumn/刘璐.md)    |   |
+|2047  |[陈](markdown/2019-Autumn/2047.md)    |   |
+|3127  |[李](markdown/2019-Autumn/self intorduction.md)    |   |
+|1194  |[于](markdown/2019-Autumn/1194.md)    |   |
+|2047  |[陈](markdown/2019-Autumn/2047.md)    |   |
+|2221  |[唐](markdown/2019-Autumn/2221.md)   |  |
+|0448  |[苏](markdown/2019-Autumn/0448.md)    |   |
+|0935  |[罗](markdown/2019-Autumn/0935.md)    |   |
+|2318  |[程](markdown/2019-Autumn/2318.md)    |   |
+|1181  |[姜](markdown/2019-Autumn/1181.md)    |   |
+|1145  |[李](markdown/2019-Autumn/1145.md)    |   |
+|1075  |[彭](markdown/2019-Autumn/1075.md)    |   |
+|1842  |[沈](markdown/2019-Autumn/1842.md)    |   |
+|0914  |[宋](markdown/2019-Autumn/姓名：宋楷润.md)    |   |
+|1188  |[黄](markdown/2019-Autumn/1188.md)    |   |
+|0436  |[陈](markdown/2019-Autumn/0436.md)    |   |
+|0316  |[孙](markdown/2019-Autumn/0316.md)    |   |
+|0316  |[孙](markdown/2019-Autumn/0316.md)    |   |
+|0038  |[刘](markdown/2019-Autumn/0038.md)    |   |
+|0239  |[高](markdown/2019-Autumn/0239.md)    |   |
+|0882  |[邱](markdown/2019-Autumn/邱子煜.md)  |    |
+|1939  |[李](markdown/2019-Autumn/1939.md)    |   |
+|1209  |[沈](markdown/2019-Autumn/1209.md)    |   |
+|0093  |[张](markdown/2019-Autumn/0093.md)    |   |
+|0902  |[陆](markdown/2019-Autumn/0902.md)    |   |
