@@ -9,4 +9,4 @@
 | 0984 | 杨子涵   |  [杨](markdown/2020-Spring/0984-杨子涵.md)    |      |
 | 0126 | chenz    |  [chenz](markdown/2020-Spring/0126-震.md)    |      |
 | 3025 | 艾丽雯 | [liwen](markdown/2020-Spring/3025-丽雯.md) |      |
-| 0118 | 马鸣远 | [mingyuan])(markdown/2020-Spring/0118-马鸣远.md）||
+| 0118 | 马鸣远 | [mingyuan](markdown/2020-Spring/0118-马鸣远.md）||
