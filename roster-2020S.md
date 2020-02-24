@@ -9,6 +9,7 @@
 | 0984 | 杨子涵   |  [杨](markdown/2020-Spring/0984-杨子涵.md)    |      |
 | 0126 | chenz    |  [chenz](markdown/2020-Spring/0126-震.md)    |      |
 | 3025 | 艾丽雯 | [liwen](markdown/2020-Spring/3025-丽雯.md) |      |
+| 2051 | 龚宇昊 | [yuhao](markdown/2020-Spring/2051-龚宇昊.md)|      |
 | 0118 | 马鸣远 | [mingyuan](markdown/2020-Spring/0118-马鸣远.md)|   |
 | 0316 | 何茂杰 | [HMJ](markdown/2020-Spring/0316—何茂杰.md) |      |
 | 0971 | 谢博文 | [xbw](markdown/2020-Spring/0971-谢博文.md)| |
