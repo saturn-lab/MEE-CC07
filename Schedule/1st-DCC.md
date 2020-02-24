@@ -12,6 +12,12 @@ Bring Your Laptop to Class.
 |   4       |  更新 ``roster.md``     |  实践    |    CZ\ZYS     |        |  
 |   5       | 建立git仓库， 建立 \*.github.io的个人主页    |  实践    |    CZ/MAXD     |        |       |
 |   6       | Git clone本项目   |  |  |  |
+
+
+optional
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   7       | Python编程语言     |  讲课    |    CZ    |    |
 |   8       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ    |   推荐用官网安装python     |
 |   9       | Python 计算Pi  ``cal_pi.py``    |  实践    |     CZ     |     |
