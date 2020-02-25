@@ -24,4 +24,8 @@
 | 0091 | 周弘亮 | [ddvdd2005](markdown/2020-Spring/0091-周弘亮.md) |      |
 | 0086 | 陈弘轩 | [Duncan](markdown/2020-Spring/0086-陈弘轩.md) |      |
 | 1641 | 赵晨洋 | [zcy](markdown/2020-Spring/1641-赵晨洋.md)   |
+| 1244 | 姚文涛 | [Wahtes](markdown/2020-Spring/1244-姚文涛.md) |      |
+| 0123 | 苏士千 | [SSQ](markdown/2020-Spring/0123-苏士千.md)    |     |
+| 0229 | 李宜澍 | [liy1shu](markdown/2020-Spring/0229-李宜澍.md) |      |
+
 
