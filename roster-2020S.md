@@ -17,3 +17,4 @@
 | 2099 | 马嘉旭 | [M](markdown/2020-Spring/2099-马嘉旭.md)|      |
 | 1322 | 刘零一 | [lly](markdown/2020-Spring/1322-刘零一.md) |      |
 | 1668 | 符达然 | [fdr](markdown/2020-Spring/1668-符达然.md) |      |
+| 1253 | 罗宇琦 | [lyq](markdown/2020-Spring/1253-罗宇琦.md) |      |
