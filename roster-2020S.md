@@ -29,4 +29,4 @@
 | 0229 | 李宜澍 | [liy1shu](markdown/2020-Spring/0229-李宜澍.md) |      |
 | 1641 | 赵晨洋 |       |      |
 | 0014 | 孙浩然 | [shr](markdown/2020-Spring/0014-孙浩然.md) |      |
-
+| 3093 | 朱珈毅 | [zjy](markdown/2020-Spring/3093-朱珈毅.md) |      |
