@@ -37,4 +37,4 @@
 | 2295 | 钟泓东 | [zhd](markdown/2020-Spring/2295-钟泓东.md) |      |
 | 0028 | 张馨文 | [zxw](markdown/2020-Spring/0028-张馨文.md) |      |
 | 0185 | 贺洁 | [hj](markdown/2020-Spring/0185-贺洁.md) |      |
-
+| 1130 | 朱余高 | [zhuyugao](markdown/2020-Spring/1130-朱余高.md) |      |
