@@ -52,4 +52,4 @@
 | 0195 | 刘般若 | [lbr](markdown/2020-Spring/0195-刘般若.md) |
 | 1739 | 肖坤鸿 | [xkh](markdown/2020-Spring/1739-肖坤鸿.md) |
 | 0111 | 覃逸成 | [qyc](markdown/2020-Spring/0111-覃逸成.md) |
-
+| 1162 | 罗书恒 | [lsh](markdown/2020-Spring/1162-罗书恒.md) |
