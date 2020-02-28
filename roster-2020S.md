@@ -39,6 +39,7 @@
 | 0185 | 贺洁 | [hj](markdown/2020-Spring/0185-贺洁.md) |      |
 | 1130 | 朱余高 | [zhuyugao](markdown/2020-Spring/1130-朱余高.md) |      |
 | 1313 | 何哲 | [hz](markdown/2020-Spring/1313-何哲.md) |      | 
+| 3343 | 杨昆达 | [reder](markdown/2020-Spring/3343-杨昆达.md)| |
 | 3284 | 孙沛瑜 | [spylft](markdown/2020-Spring/3284-孙沛瑜.md) |      |
 | 2482 | 阮海峰 | [rhf](markdown/2020-Spring/2482-阮海峰.md) |      |
 | 0982 | 谢童欣 | [xtx](markdown/2020-Spring/0982-谢童欣.md) |      |
@@ -47,4 +48,3 @@
 | 0895 | 徐晨曦 | [xsun2001](markdown/2020-Spring/0895-徐晨曦.md) |      |
 | 0195 | 刘般若 | [lbr](markdown/2020-Spring/0195-刘般若.md) |
 | 0111 | 覃逸成 | [qyc](markdown/2020-Spring/0111-覃逸成.md) |
-
