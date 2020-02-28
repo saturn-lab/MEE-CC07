@@ -54,3 +54,4 @@
 | 0111 | 覃逸成 | [qyc](markdown/2020-Spring/0111-覃逸成.md) |
 | 1162 | 罗书恒 | [lsh](markdown/2020-Spring/1162-罗书恒.md) |
 | 0297 | 和嘉晅 | [hjx](markdown/2020-Spring/0297-和嘉晅.md) |      |
+| 1274 | 严若天 | [yanruotian](markdown/2020-Spring/1274-严若天.md) |      |
