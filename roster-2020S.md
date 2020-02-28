@@ -50,6 +50,7 @@
 | 1306 | 刘宇淏 | [lyh](markdown/2020-Spring/1306-刘宇淏.md) |      |
 | 0895 | 徐晨曦 | [xsun2001](markdown/2020-Spring/0895-徐晨曦.md) |      |
 | 0195 | 刘般若 | [lbr](markdown/2020-Spring/0195-刘般若.md) |
+| 0470 | 冷剑雄 | [ljx](markdown/2020-Spring/0470-冷剑雄.md) |      |
 | 1739 | 肖坤鸿 | [xkh](markdown/2020-Spring/1739-肖坤鸿.md) |
 | 0111 | 覃逸成 | [qyc](markdown/2020-Spring/0111-覃逸成.md) |
 | 1162 | 罗书恒 | [lsh](markdown/2020-Spring/1162-罗书恒.md) |
