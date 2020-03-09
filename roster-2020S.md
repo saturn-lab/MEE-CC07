@@ -56,6 +56,6 @@
 | 1162 | 罗书恒 | [lsh](markdown/2020-Spring/1162-罗书恒.md) |
 | 0297 | 和嘉晅 | [hjx](markdown/2020-Spring/0297-和嘉晅.md) |      |
 | 1274 | 严若天 | [yanruotian](markdown/2020-Spring/1274-严若天.md) |      |
+| 0003 | 刘佳琪 | [ljq](markdown/2020-Spring/0003-刘佳琪.md) |      |
 | 3020 | 陆韦辛 | [lwx](markdown/2020-Spring/3020-陆韦辛.md) |      |
 | 1393 | 蔡严正 | [cyz](markdown/2020-Spring/1393-蔡严正.md)|     |
-
