@@ -59,3 +59,4 @@
 | 0003 | 刘佳琪 | [ljq](markdown/2020-Spring/0003-刘佳琪.md) |      |
 | 3020 | 陆韦辛 | [lwx](markdown/2020-Spring/3020-陆韦辛.md) |      |
 | 1393 | 蔡严正 | [cyz](markdown/2020-Spring/1393-蔡严正.md)|     |
+| 3006 | 卢裕文 | [lyw](markdown/2020-Spring/3006-卢裕文.md) |      |
