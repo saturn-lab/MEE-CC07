@@ -61,3 +61,4 @@
 | 1393 | 蔡严正 | [cyz](markdown/2020-Spring/1393-蔡严正.md)|     |
 | 1645 | 艾力亚尔 | [elyar](markdown/2020-Spring/1645-艾力亚尔.md)|     |
 | 3006 | 卢裕文 | [lyw](markdown/2020-Spring/3006-卢裕文.md) |      |
+| 2941 | 张儒君 | [Ruthy](https://github.com/saturn-lab/MEE-CC07/blob/master/markdown/2020-Spring/2941-%E5%BC%A0%E5%84%92%E5%90%9B.md) |    |
