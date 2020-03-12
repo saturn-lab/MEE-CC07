@@ -64,4 +64,4 @@
 | 1246 | 李家鑫 | [lijx](markdown/2020-Spring/1246-李家鑫.md)|      |
 | 3406 | 罗关 | [lg](markdown/2020-Spring/3406-罗关.md) | |
 | 1108 | 郭文潇 | [gwx19](markdown/2020-Spring/1108-郭文潇.md) |      |
-
+| 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |     
