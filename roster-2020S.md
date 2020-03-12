@@ -61,5 +61,8 @@
 | 1393 | 蔡严正 | [cyz](markdown/2020-Spring/1393-蔡严正.md)|     |
 | 1645 | 艾力亚尔 | [elyar](markdown/2020-Spring/1645-艾力亚尔.md)|     |
 | 3006 | 卢裕文 | [lyw](markdown/2020-Spring/3006-卢裕文.md) |      |
+| 1246 | 李家鑫 | [lijx](markdown/2020-Spring/1246-李家鑫.md)|      |
+| 3406 | 罗关 | [lg](markdown/2020-Spring/3406-罗关.md) | |
 | 1108 | 郭文潇 | [gwx19](markdown/2020-Spring/1108-郭文潇.md) |      |
 | 0514 | 张健 | [zhajha](markdown/2020-Spring/0514-张健.mad) |      |
+
