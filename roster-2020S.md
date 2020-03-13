@@ -73,3 +73,4 @@
 | 1334 | 曹隽诚 | [cjc](markdown/2020-Spring/1334-曹隽诚.md) |      |
 | 0687 | 李一凡 | [lyf](markdown/2020-Spring/0687-李一凡.md) |      |   
 | 1101 | 赵珂萌 | [zkm](markdown/2020-Spring/1101-赵珂萌.md) |      |
+| 0830 | 高瞻远 | [Gaozy2000](markdown/2020-Spring/0830-高瞻远.md) |      |   
