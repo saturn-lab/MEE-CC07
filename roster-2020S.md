@@ -68,3 +68,4 @@
 | 0514 | 张健 | [zhajha](markdown/2020-Spring/0514-张健.mad) |      |
 | 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |     
 | 1334 | 曹隽诚 | [cjc](markdown/2020-Spring/1334-曹隽诚.md) |      |
+| 0687 | 李一凡 | [lyf](markdown/2020-Spring/0687-李一凡.md) |      |   
