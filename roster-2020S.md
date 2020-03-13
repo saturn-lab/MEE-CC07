@@ -73,7 +73,7 @@
 | 0942 | 何彤   | [Hetong920](markdown/2020-Spring/0942-何彤.md) |      |     
 | 1334 | 曹隽诚 | [cjc](markdown/2020-Spring/1334-曹隽诚.md) |      |
 | 0687 | 李一凡 | [lyf](markdown/2020-Spring/0687-李一凡.md) |      |   
-| 1377 | 张岳伟 |[Photen](markdown/2020-Spring/0687-张岳伟.md) |      |   
+| 1377 | 张岳伟 |[Photen](markdown/2020-Spring/1377-张岳伟.md) |      |   
 | 1101 | 赵珂萌 | [zkm](markdown/2020-Spring/1101-赵珂萌.md) |      |
 | 1043 | 刘文灿 | [liuwc19](markdown/2020-Spring/1043-刘文灿.md) |      |
 | 0830 | 高瞻远 | [Gaozy2000](markdown/2020-Spring/0830-高瞻远.md) |      |   
