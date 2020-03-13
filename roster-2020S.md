@@ -69,8 +69,10 @@
 | 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |   
 | 0978 | 王嗣尹 | [wsy19](markdown/2020-Spring/0978-王嗣尹.md) |      |
 | 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |     
+| 1749 | 武人思 | [wrs19](markdown/2020-Spring/1749-武人思.md) |      |
 | 0942 | 何彤   | [Hetong920](markdown/2020-Spring/0942-何彤.md) |      |     
 | 1334 | 曹隽诚 | [cjc](markdown/2020-Spring/1334-曹隽诚.md) |      |
 | 0687 | 李一凡 | [lyf](markdown/2020-Spring/0687-李一凡.md) |      |   
 | 1101 | 赵珂萌 | [zkm](markdown/2020-Spring/1101-赵珂萌.md) |      |
 | 0830 | 高瞻远 | [Gaozy2000](markdown/2020-Spring/0830-高瞻远.md) |      |   
+
