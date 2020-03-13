@@ -66,5 +66,6 @@
 | 3406 | 罗关 | [lg](markdown/2020-Spring/3406-罗关.md) | |
 | 1108 | 郭文潇 | [gwx19](markdown/2020-Spring/1108-郭文潇.md) |      |
 | 0514 | 张健 | [zhajha](markdown/2020-Spring/0514-张健.mad) |      |
-| 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |     
+| 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |   
+| 0987 | 王嗣尹 | [wsy19](markdown/2020-Spring/0978-王嗣尹.md) |      |
 
