@@ -41,7 +41,7 @@
 | 1130 | 朱余高 | [zhuyugao](markdown/2020-Spring/1130-朱余高.md) |      |
 | 0003 | 张雪婷 ||      |
 | 3345 | 刘梓涵 | [lzh](markdown/2020-Spring/3345-刘梓涵.md) |      |
-| 1313 | 何哲 | [hz](markdown/2020-Spring/1313-何哲.md) |      |
+| 1313 | 何哲 | [hz](markdown/2020-Spring/1313-何哲.md) |      | 
 | 3343 | 杨昆达 | [reder](markdown/2020-Spring/3343-杨昆达.md)| |
 | 3284 | 孙沛瑜 | [spylft](markdown/2020-Spring/3284-孙沛瑜.md) |      |
 | 2482 | 阮海峰 | [rhf](markdown/2020-Spring/2482-阮海峰.md) |      |
@@ -66,5 +66,5 @@
 | 3406 | 罗关 | [lg](markdown/2020-Spring/3406-罗关.md) | |
 | 1108 | 郭文潇 | [gwx19](markdown/2020-Spring/1108-郭文潇.md) |      |
 | 0514 | 张健 | [zhajha](markdown/2020-Spring/0514-张健.mad) |      |
-| 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |
-| 1334 | 曹隽诚 | [cjc](markdown/2020-Spring/1334-曹隽诚.md) |      |
+| 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |     
+
