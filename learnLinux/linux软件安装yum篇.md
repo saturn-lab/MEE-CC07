@@ -7,7 +7,8 @@
 ### 1 用putty登录远程服务器： 地址101.6.160.22，端口：10122，10222，10322......11022
   用户名：vr    密码：vr123456
 ### 2 安装软件yum方法（以安装http为例）
-  sudo yum install httpd
+    sudo yum install httpd
+    
  输入密码 vr123456  
 软件安装对话， 选择Y
 ### 3 启动服务  
