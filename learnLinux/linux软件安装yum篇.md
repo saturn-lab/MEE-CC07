@@ -12,15 +12,17 @@
  输入密码 vr123456  
 软件安装对话， 选择Y
 ### 3 启动服务  
- sudo systemctl start httpd
+    sudo systemctl start httpd
+    
   查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
 ### 4 停止服务   
- sudo systemctl stop httpd
+    sudo systemctl stop httpd
+    
   查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
 ### 5 启动服务,关闭服务sudo systemctl start httpd
 查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
- sudo systemctl stop httpd
+    sudo systemctl stop httpd
 ### 6 删除服务  
- sudo yum remove httpd
+    sudo yum remove httpd
 ### 7 验证  启动服务  
- sudo systemctl start httpd  此时报错
+    sudo systemctl start httpd  此时报错说明删除成功
