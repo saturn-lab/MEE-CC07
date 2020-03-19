@@ -8,4 +8,4 @@
 
 选择ssh连接，点击OPEN即可进入linux系统，要输入用户名密码。用户名vr 密码vr123456
 
-![avatar](picture/putty1.png)
+![avatar](pic/putty1.png)
