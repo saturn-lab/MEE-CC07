@@ -57,4 +57,4 @@ vim   myfile             //编辑myfile
 :w /保存
 
 :w! /强行保存
-vimtutor 练习，学习键盘操作。
+vimtutor 练习，学习键盘操作。vimtutor是vim自带的教程，在命令行打vimtutor回车就可以进入。
