@@ -28,7 +28,7 @@ head  base.html
 tail  base.html
 clear   /清屏，清除终端中显示内容
 网络命令
-ip a               //显示IP地址
+ip a               //显示IP地址  ping停止需要按下Ctrl+C键
 ping 192.168.x.x   //ping 工具使用，停止ping用Ctrl+C组合键
 Ping  info.tsinghua.edu.cn
 管理命令
