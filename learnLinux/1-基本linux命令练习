@@ -33,8 +33,7 @@ ping 192.168.x.x   //ping 工具使用，停止ping用Ctrl+C组合键
 Ping  info.tsinghua.edu.cn
 管理命令
 
-sudo reboot         //重启电脑，需要管理权限
-系统信息命令
+sudo reboot         //重启电脑，需要管理权限  慎用，会重启服务器。连接会断。
 date                //日期和时间
 cal                 //月历
 uptime             //开机运行时间
