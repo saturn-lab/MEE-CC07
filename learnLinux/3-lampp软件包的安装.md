@@ -6,3 +6,9 @@
     scp vr@10.0.1.17:/home/vr/xampp724.run .   
 
 ### 软件的安装，先改权限，赋予可执行权限
+    chmod -R 777 xampp724.run   
+    sudo ./xampp724.run   
+
+XAMPP Developer Files [Y/n] : Y
+
+然后根据提示安装软件。
