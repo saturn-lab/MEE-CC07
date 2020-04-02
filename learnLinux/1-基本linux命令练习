@@ -9,8 +9,8 @@ ls ~               //查看个人主目录
 ls -al             //查看目录详情
 cd /home           //进入home目录
 ls                 //查看当前目录
-mkdir test         //在当前目录创建test目录
-cd test           //进入test目录
+mkdir test         //在当前目录创建test目录，此目录名test随意，底下要同步更改
+cd test           //进入test目录，或者你新建的目录
 pwd               //查看当前目录，比较与开始的不同显示结果
 cd ..            //返回到上一级目录
 pwd           //确认当前目录
