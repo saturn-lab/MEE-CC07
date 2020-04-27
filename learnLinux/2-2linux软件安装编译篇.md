@@ -11,8 +11,9 @@
     gcc -o 2048 2048.c                            //编译安装
     ./2048                                        //执行
 #### 排错，如果执行wget报错，“failed: Temporary failure in name resolution.”，说明名字解析有c/问题
-#### 可以用vim查看 /etc/resolv.conf 文件内容，修正为    //  命令为sudo vim /etc/resolv.conf
+#### 可以用命令sudo vim /etc/resolv.conf 查看内容应该为如下，不是则修改为如下
     nameserver 166.111.8.28
+    然后再重新执行上面3行命令  （wget，gcc,./2048)
 ### gcc
 ### gcc 是GNU编译器套件，是Linux下默认的C/C++编译器.在windows环境下可以通过MinGw等GNU for Windows类工具使用gcc编译套件
 
