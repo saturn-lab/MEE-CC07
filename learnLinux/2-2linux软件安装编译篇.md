@@ -9,7 +9,7 @@
 ### 然后执行2048软件的下载安装执行
     wget https://raw.githubusercontent.com/mevdschee/2048.c/master/2048.c    //下载
     gcc -o 2048 2048.c                            //编译安装
-    ./2048                                        //执行
+    ./2048                                        //执行  运行后Ctrl+C是退出
 #### 排错，如果执行wget报错，“failed: Temporary failure in name resolution.”，说明名字解析有c/问题
 #### 可以用命令sudo vim /etc/resolv.conf 查看内容应该为如下，不是则修改为如下
     nameserver 166.111.8.28
