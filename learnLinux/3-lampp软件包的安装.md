@@ -15,7 +15,9 @@ XAMPP Developer Files [Y/n] : Y
 Setup has finished installing XAMPP on your computer.
 出现以上显示，说明安装正确。
 ### 查看和验证    浏览器打开 http://101.6.160.22:10180(每个人不同） 
-停止、启动web服务
-首先进入软件安装目录，一般是 /opt/lampp ,命令为
+### 停止、启动web服务
+#### 首先进入软件安装目录，一般是 /opt/lampp ,命令为
     cd /opt/lampp
     ./ctlscript.sh stop  //停止， 启动为start ，重启为restart 
+#### 删除
+    ./uninstall
