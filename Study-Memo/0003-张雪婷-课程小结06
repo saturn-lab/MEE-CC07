@@ -1,0 +1,64 @@
+#### 课程小结
+
+###### 呼吸灯：
+
+import RPi.GPIO as GPIO
+import time
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(25,GPIO.OUT)
+while True:
+    GPIO.output(25,GPIO.HIGH)
+    time.sleep(1)
+    GPIO.output(25,GPIO.LOW)
+    time.sleep(1)
+
+
+
+###### 按钮控制灯：
+
+import RPi.GPIO as GPIO
+import time
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(25,GPIO.OUT)
+GPIO.setup(24,GPIO.IN)
+while True:
+    inputValue = GPIO.input(24)
+    if (inputValue == True):
+        GPIO.output(25,GPIO.HIGH)
+        time.sleep(1)
+    else:
+        GPIO.output(25,GPIO.LOW)
+        time.sleep(.01)
+
+
+
+###### 加法器：
+
+import RPi.GPIO as GPIO
+import time
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(23,GPIO.OUT)
+GPIO.setup(24,GPIO.IN)
+GPIO.setup(25,GPIO.OUT)
+def show(n):
+    GPIO.output(23,GPIO.LOW)
+    GPIO.output(25,GPIO.LOW)
+    if n%2==1:
+        GPIO.output(25,GPIO.HIGH)
+        n = n-1
+    n=n/2
+    if n%2==1:
+        GPIO.output(23,GPIO.HIGH)
+GPIO.output(23,GPIO.LOW)
+GPIO.output(25,GPIO.LOW)
+n=0
+while True:
+    if GPIO.input(24):
+        n=n+1
+        print(n)
+        show(n)
+        time.sleep(0.5)
+    time.sleep(0.01)``
