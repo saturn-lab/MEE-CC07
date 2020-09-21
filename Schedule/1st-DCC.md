@@ -19,59 +19,59 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Git语法简介、Git操作     |  讲课    |    CZ    | VS code/Sublime/Notepad++ |
+|   3       | Git语法简介、Git操作     |  讲课    |    CZ    | VS code/Sublime/Notepad++ |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   6       | Git clone本项目   | 实践 |   |   |
+|   4       | Git clone本项目   | 实践 |   |   |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   3       |  安装Markdown编辑器     |  实践    |   ZYS    |    下载安装typora软件      |
+|   5       |  安装Markdown编辑器     |  实践    |   ZYS    |    下载安装typora软件      |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1       | Markdown语法介绍    |  讲课    |   WHY     |      |
+|   6       | Markdown语法介绍    |  讲课    |   WHY     |      |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   4       |  个人自我介绍markdown ``ID-Four-digit.md``      |  实践    |    CZ\ZYS     |        |  
+|   7       |  个人自我介绍markdown ``ID-Four-digit.md``      |  实践    |    CZ\ZYS     |        |  
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   4       |  更新 ``roster.md``     |  实践    |    CZ\ZYS     |        |  
+|   8       |  更新 ``roster.md``     |  实践    |    CZ\ZYS     |        |  
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   5       | 建立git仓库， 建立 \*.github.io的个人主页    |  实践    |    CZ/MAXD     |        |       |
+|   9       | 建立git仓库， 建立 \*.github.io的个人主页    |  实践    |    CZ/MAXD     |        |       |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   2       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   GM    |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
+|   10       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   GM    |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   7       | Python编程语言     |  讲课    |    CZ    |    |
+|   11       | Python编程语言     |  讲课    |    CZ    |    |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   2       | Python计算Pi([课件]( ) )      |  讲课    |     GM     |         |
-|   2       | (PI[notebook](calculate_pi.ipynb))     |  体验    |     GM     |  
-|   9       | Python 计算Pi  ``cal_pi.py``    |  实践    |     GM     |     |
+|   12       | Python计算Pi([课件]( ) )      |  讲课    |     GM     |         |
+|   13       | (PI[notebook](calculate_pi.ipynb))     |  体验    |     GM     |  
+|   14       | Python 计算Pi  ``cal_pi.py``    |  实践    |     GM     |     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   10      | 小结回顾        | 讲课 | CZ |   |
+|   15      | 小结回顾        | 讲课 | CZ |   |
 
 
 
