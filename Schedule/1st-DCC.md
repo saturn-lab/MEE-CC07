@@ -53,23 +53,23 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   10       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   GM    |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
+|   10      | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   GM    |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   11       | Python编程语言     |  讲课    |    CZ    |    |
+|   11      | Python编程语言     |  讲课    |    CZ    |    |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   12       | Python计算Pi([课件]( ) )      |  讲课    |     GM     |         |
-|   13       | (PI[notebook](calculate_pi.ipynb))     |  体验    |     GM     |
+|   12      | Python计算Pi([课件]( ) )      |  讲课    |     GM     |         |
+|   13      | PI([notebook](calculate_pi.ipynb))     |  体验    |     GM     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   14       | Python 计算Pi  ``cal_pi.py``    |  实践    |     GM     |     |
+|   14      | Python 计算Pi  ``cal_pi.py``    |  实践    |     GM     |     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
