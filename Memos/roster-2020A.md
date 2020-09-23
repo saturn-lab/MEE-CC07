@@ -2,7 +2,7 @@
 
 | ID   | 名字  | 主页 | 备注 |
 | ---- | ---- | ---- | ---- |
-|2470  |毕梦达|    [bmd](/Student/2020-Autumn/Markdown-Git/2470.md ) |bmd18|
+|2470  |毕梦达|    [bmd](Student/2020-Autumn/Markdown-Git/2470.md ) |bmd18|
 |      |      |      |      |
 |      |      |      |      |
 |      |      |      |      |
