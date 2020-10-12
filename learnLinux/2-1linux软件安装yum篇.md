@@ -15,14 +15,16 @@
     sudo systemctl start httpd
     
   查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
-### 4 停止服务   
+### 4 网站内容练习  
+  将示例html文件，拷贝到/var/www/html目录下 查看浏览器内容，更改html内容，查看网页显示。这里教师要有讲解，不直接给命令。同学理解后自己敲命令。
+### 5 停止服务   
     sudo systemctl stop httpd
     
   查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
-### 5 启动服务,关闭服务sudo systemctl start httpd
+### 6 启动服务,关闭服务sudo systemctl start httpd
 查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
     sudo systemctl stop httpd
-### 6 删除服务  
+### 7 删除服务  
     sudo yum remove httpd
-### 7 验证  启动服务  
+### 8 验证  启动服务  
     sudo systemctl start httpd  此时报错说明删除成功
