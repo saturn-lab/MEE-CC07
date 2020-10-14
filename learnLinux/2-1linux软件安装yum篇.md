@@ -1,4 +1,4 @@
-# Linux下软件安装（10-15分钟）
+# Linux下软件安装（10-30分钟）
 ## 实验环境：云平台
 ## 实验工具：putty  或其它 远程工具
 
@@ -15,14 +15,17 @@
     sudo systemctl start httpd
     
   查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
-### 4 停止服务   
+### 4 网站内容练习  
+  将示例html文件，拷贝到/var/www/html目录下 查看浏览器内容，更改html内容，并且改html文件名为index.html，然后查看网页显示。这里不直接给命令。同学理解后仿照前面命令格式自己完成。
+  涉及权限问题：直接复制文件，因为权限问题不可用。 sudo chmod -R 777 /var/www/html 改目录权限为可写
+### 5 停止服务   
     sudo systemctl stop httpd
     
   查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
-### 5 启动服务,关闭服务sudo systemctl start httpd
+### 6 启动服务,关闭服务sudo systemctl start httpd
 查看  浏览器打开  http://101.6.160.22:10180(每个人不同）
     sudo systemctl stop httpd
-### 6 删除服务  
+### 7 删除服务  
     sudo yum remove httpd
-### 7 验证  启动服务  
+### 8 验证  启动服务  
     sudo systemctl start httpd  此时报错说明删除成功
