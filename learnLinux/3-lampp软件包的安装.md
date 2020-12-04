@@ -19,6 +19,7 @@ Setup has finished installing XAMPP on your computer.
 #### 首先进入软件安装目录，一般是 /opt/lampp ,命令为
     cd /opt/lampp
     ./ctlscript.sh stop  //停止， 启动为start ，重启为restart 
+    /opt/lampp/htdocs  是网站根目录，试着更改index.php 文件（删除index.php 从其他地方找个html文件，改名为index.html)
 #### 删除xampp软件执行以下命令
     sudo /opt/lampp/uninstall
 
